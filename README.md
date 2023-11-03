@@ -1,4 +1,3 @@
-# Simon-Says-Mini-Project
 
 # Simon Says Game
 
