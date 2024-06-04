@@ -13,6 +13,9 @@ HTML
 CSS 
 JavaScript
 
+## Live Demo
+
+link : https://www.simon-says-game.com/
 Git repo link : https://github.com/Simran-Patidar/Simon-Says-Mini-Project
 
 
