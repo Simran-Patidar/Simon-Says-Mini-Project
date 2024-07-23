@@ -17,7 +17,7 @@ Simon Says is a memory game where the player must replicate the sequence of ligh
 
 ## Live Demo
 
-link : https://www.simon-says-game.com/
+link : https://simon-says-mini-project-j6ns0w66a-simran-patidars-projects.vercel.app
 
 Git repo link : https://github.com/Simran-Patidar/Simon-Says-Mini-Project
 
